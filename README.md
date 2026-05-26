@@ -1,4 +1,4 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Lucas Dias
 
 🚀 **Software Engineering Student | PUC Minas**  
 🇧🇷 Brazil
