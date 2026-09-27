@@ -1,69 +1,88 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
------
+<h3 align="center">Estudante de Engenharia de Software | Java & Python | Rumo ao mercado internacional</h3>
 
-<div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/SEU-INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
------
+---
 
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
-<!--<td><a href="https://replit.com/@aramuni"><img src="https://joaopauloaramuni.github.io/image/replit3.svg?raw=true" width="50px" height="50px"/></a>-->
-<td><a href="https://github.com/lucasdiasmz" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="mailto:lucasdiasmelo4@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5537998407715" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.instagram.com/lucasdiasmz/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/insta2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/lucasdiasmz/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
-</tr> 
-</table>
-</div>
+### 🚀 Sobre mim
 
------
+- 🎓 Cursando **Engenharia de Software** na **PUC Minas** (2º período)
+- 💻 Aprofundando conhecimentos em **Java** e **Spring Boot**, além de **Python**
+- 🌎 Inglês nível intermediário/avançado — objetivo: atuar em empresas do exterior
+- 🧩 Gosto de projetos que unem criatividade e técnica, como desenvolvimento de jogos
+- 📚 Sempre estudando: algoritmos, POO, desenvolvimento web e engenharia de software
 
-<table>
-<tr>
- <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@615329c9-868e-41d2-b12f-ecb9464f2ad8">WakaTime</a></td>
-</tr> 
-<tr>
-<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=615329c9-868e-41d2-b12f-ecb9464f2ad8&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22" alt="WakaTime Stats" width="466" loading="lazy"/></td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/wakatime?username=615329c9-868e-41d2-b12f-ecb9464f2ad8&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12" alt="WakaTime Stats" width="466" loading="lazy"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&theme=dark&locale=pt-br&langs_count=7"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
-</td>
-<td>
-<!-- <img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopauloaramuni&layout=pie&theme=dark&locale=pt-br"/> -->
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-<td>
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=joaopauloaramuni&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-</table>
+---
+
+### 🛠️ Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🏆 **Overengineering** | Jogo tower defense em grupo, com arquitetura OOP (classes base e subclasses para torres e projéteis, inimigo boss) | `Python` `Pygame` |
+| ⚽ **Cruzeiro E-commerce** | Site de e-commerce do Cruzeiro Esporte Clube, com login e favoritos de produtos | `HTML` `CSS` `JS` `Bootstrap 5` `JSON Server` |
+
+> 💡 *Edite esta tabela com os links dos seus repositórios: `[Overengineering](https://github.com/lucasdiasmz/repo)`*
+
+---
+
+### 🧰 Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdiasmz&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasmz&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdiasmz&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdiasmz&theme=tokyo-night" />
+</p>
+
+---
+
+### ⏱️ WakaTime
+
+<!--START_SECTION:waka-->
+<!-- Mantenha seu workflow atual do WakaTime aqui, ele já injeta a tabela automaticamente -->
+<!--END_SECTION:waka-->
+
+---
+
+### 🤝 Vamos conversar?
+
+<p align="center">
+  Aberto a oportunidades de estágio e projetos colaborativos. Me chama!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lucasdiasmz&style=flat-square&color=blue" alt="profile views" />
+</p>
