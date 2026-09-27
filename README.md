@@ -1,15 +1,15 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-<h3 align="center">Estudante de Engenharia de Software | Java & Python | Rumo ao mercado internacional</h3>
+<h3 align="center">Estudante de Engenharia de Software | Rumo ao mercado internacional</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/lucasdiasmz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com">
+  <a href="mailto:lucasdiasmelo4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM">
+  <a href="https://instagram.com/lucasdiasmz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -20,8 +20,8 @@
 
 - 🎓 Cursando **Engenharia de Software** na **PUC Minas** (2º período)
 - 💻 Aprofundando conhecimentos em **Java** e **Spring Boot**, além de **Python**
-- 🌎 Inglês nível intermediário/avançado — objetivo: atuar em empresas do exterior
-- 🧩 Gosto de projetos que unem criatividade e técnica, como desenvolvimento de jogos
+- 🌎 Inglês nível intermediário/avançado — objetivos futuros: atuar em empresas do exterior
+- 🧩 Gosto de projetos que unem criatividade e técnica
 - 📚 Sempre estudando: algoritmos, POO, desenvolvimento web e engenharia de software
 
 ---
@@ -30,10 +30,8 @@
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🏆 **Overengineering** | Jogo tower defense em grupo, com arquitetura OOP (classes base e subclasses para torres e projéteis, inimigo boss) | `Python` `Pygame` |
-| ⚽ **Cruzeiro E-commerce** | Site de e-commerce do Cruzeiro Esporte Clube, com login e favoritos de produtos | `HTML` `CSS` `JS` `Bootstrap 5` `JSON Server` |
-
-> 💡 *Edite esta tabela com os links dos seus repositórios: `[Overengineering](https://github.com/lucasdiasmz/repo)`*
+| **Overengineering**(https://github.com/lucasdiasmz/-Overengeneering-) | Jogo tower defense em grupo, com arquitetura OOP (classes base e subclasses para torres e projéteis, inimigo boss) | `Python` `Pygame` |
+| **Primeira RestAPI**(https://github.com/lucasdiasmz/firstRestAPI-Spring) | Primeira API Rest desenvolvida | `Java` `Spring Boot` |
 
 ---
 
@@ -46,7 +44,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
