@@ -65,21 +65,3 @@
 </p>
 
 ---
-
-### ⏱️ WakaTime
-
-<!--START_SECTION:waka-->
-<!-- Mantenha seu workflow atual do WakaTime aqui, ele já injeta a tabela automaticamente -->
-<!--END_SECTION:waka-->
-
----
-
-### 🤝 Vamos conversar?
-
-<p align="center">
-  Aberto a oportunidades de estágio e projetos colaborativos. Me chama!
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lucasdiasmz&style=flat-square&color=blue" alt="profile views" />
-</p>
