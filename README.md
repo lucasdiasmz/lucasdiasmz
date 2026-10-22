@@ -1,67 +1,127 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+<div align="center">
 
-<h3 align="center">Estudante de Engenharia de Software | Rumo ao mercado internacional</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lucas%20Dias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&descSize=16&descAlignY=60" alt="Lucas Dias" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucasdiasmz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasdiasmelo4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/lucasdiasmz">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/lucasdiasmz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=620&lines=Building+backend+skills+with+Java+%26+Spring+Boot;Writing+clean%2C+object-oriented+code;Learning+every+day%2C+aiming+for+global+teams" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🚀 Sobre mim
+<a href="https://www.linkedin.com/in/lucasdiasmz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:lucasdiasmelo4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/lucasdiasmz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-- 🎓 Cursando **Engenharia de Software** na **PUC Minas** (2º período)
-- 💻 Aprofundando conhecimentos em **Java** e **Spring Boot**, além de **Python**
-- 🌎 Inglês nível intermediário/avançado — objetivos futuros: atuar em empresas do exterior
-- 🧩 Gosto de projetos que unem criatividade e técnica
-- 📚 Sempre estudando: algoritmos, POO, desenvolvimento web e engenharia de software
+</div>
 
 ---
 
-### 🛠️ Projetos em destaque
+## 👨‍💻 About me
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Overengineering**(https://github.com/lucasdiasmz/-Overengeneering-) | Jogo tower defense em grupo, com arquitetura OOP (classes base e subclasses para torres e projéteis, inimigo boss) | `Python` `Pygame` |
-| **Primeira RestAPI**(https://github.com/lucasdiasmz/firstRestAPI-Spring) | Primeira API Rest desenvolvida | `Java` `Spring Boot` |
+I'm a **Software Engineering student at PUC Minas** (2nd semester, Brazil), focused on becoming a solid backend developer and, in the long run, working with **international teams**.
+
+```java
+public class Lucas {
+    private final String role     = "Software Engineering Student";
+    private final String focus    = "Backend: Java + Spring Boot";
+    private final String alsoUses = "Python";
+    private final String english  = "Intermediate to advanced";
+    private final String goal     = "Work for companies abroad";
+
+    public String currentlyDoing() {
+        return "Studying algorithms, OOP, web development and software engineering";
+    }
+}
+```
+
+- 🔭 **Now:** going deeper into **Java** and **Spring Boot** (REST APIs)
+- 🐍 **Also:** Python, mostly for algorithms and game projects
+- 🧩 **I enjoy:** projects where creativity meets technical problem solving
+- 🌎 **Next step:** building a portfolio that is ready for the international market
+
+---
+
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/lucasdiasmz/-Overengeneering-">Overengineering</a></h3>
+      <p>Tower defense game built with a team. The architecture is object-oriented: base classes and subclasses for towers and projectiles, plus a boss enemy.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pygame-2E7D32?style=flat-square" /> <img src="https://img.shields.io/badge/OOP-555555?style=flat-square" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 <a href="https://github.com/lucasdiasmz/firstRestAPI-Spring">First REST API</a></h3>
+      <p>My first REST API, built as the starting point of my Spring Boot journey.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/REST-555555?style=flat-square" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧰 Tecnologias
+## 🧰 Tech stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Backend**
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdiasmz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasmz&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=lucasdiasmz&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Let's connect
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdiasmz&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasmz&layout=compact&theme=tokyonight" />
-</p>
+I'm open to conversations about backend development, study groups and opportunities for interns and juniors. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) or by [email](mailto:lucasdiasmelo4@gmail.com).
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdiasmz&theme=tokyonight" />
-</p>
+<details>
+<summary><b>🇧🇷 Versão em português</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasdiasmz&theme=tokyo-night" />
-</p>
+<br/>
 
----
+### Sobre mim
+
+Sou estudante de **Engenharia de Software na PUC Minas** (2º período), com foco em me tornar um desenvolvedor backend sólido e, no futuro, trabalhar em **empresas do exterior**.
+
+- 🔭 **Agora:** aprofundando em **Java** e **Spring Boot** (APIs REST)
+- 🐍 **Também:** Python, principalmente em algoritmos e projetos de jogos
+- 🧩 **Gosto de:** projetos que unem criatividade e técnica
+- 🌎 **Inglês:** nível intermediário/avançado
+- 📚 **Sempre estudando:** algoritmos, POO, desenvolvimento web e engenharia de software
+
+### Projetos em destaque
+
+- **[Overengineering](https://github.com/lucasdiasmz/-Overengeneering-):** jogo tower defense em grupo, com arquitetura orientada a objetos (classes base e subclasses para torres e projéteis, inimigo boss). `Python` `Pygame`
+- **[Primeira REST API](https://github.com/lucasdiasmz/firstRestAPI-Spring):** minha primeira API REST, ponto de partida no Spring Boot. `Java` `Spring Boot`
+
+### Contato
+
+Aberto a conversas sobre desenvolvimento backend, grupos de estudo e oportunidades de estágio. Me chama no [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) ou por [e-mail](mailto:lucasdiasmelo4@gmail.com).
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
