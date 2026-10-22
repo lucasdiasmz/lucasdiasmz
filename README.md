@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Lucas%20Dias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Python&descSize=16&descAlignY=60" alt="Lucas Dias" />
+<h1>Lucas Dias</h1>
+
+<h3>Software Engineering Student | Java &amp; Spring Boot | Python</h3>
 
 <a href="https://github.com/lucasdiasmz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=620&lines=Building+backend+skills+with+Java+%26+Spring+Boot;Writing+clean%2C+object-oriented+code;Learning+every+day%2C+aiming+for+global+teams" alt="Typing SVG" />
@@ -123,5 +125,3 @@ Sou estudante de **Engenharia de Software na PUC Minas** (2º período), com foc
 Aberto a conversas sobre desenvolvimento backend, grupos de estudo e oportunidades de estágio. Me chama no [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) ou por [e-mail](mailto:lucasdiasmelo4@gmail.com).
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt="" />
