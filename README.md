@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1>Lucas Dias</h1>
-
-<h3>Software Engineering Student | Java · Python · React</h3>
+<img src="./banner.svg" width="100%" alt="Lucas Dias - Software Engineering Student | Java, Python, React" />
 
 <a href="https://github.com/lucasdiasmz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=620&lines=Writing+clean%2C+object-oriented+code;Building+interfaces+with+React%2C+HTML+%26+CSS;Learning+every+day%2C+aiming+for+global+teams" alt="Typing SVG" />
@@ -16,7 +14,7 @@
 
 </div>
 
----
+<img src="./divider.svg" width="100%" height="6" alt="" />
 
 ## 👨‍💻 About me
 
@@ -42,7 +40,7 @@ public class Lucas {
 - 🧩 **I enjoy:** projects where creativity meets technical problem solving
 - 🌎 **Next step:** building a portfolio that is ready for the international market
 
----
+<img src="./divider.svg" width="100%" height="6" alt="" />
 
 ## 🚀 Featured projects
 
@@ -61,7 +59,7 @@ public class Lucas {
   </tr>
 </table>
 
----
+<img src="./divider.svg" width="100%" height="6" alt="" />
 
 ## 🧰 Tech stack
 
@@ -86,20 +84,20 @@ public class Lucas {
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
----
+<img src="./divider.svg" width="100%" height="6" alt="" />
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdiasmz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasmz&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lucasdiasmz&show_icons=true&count_private=true&hide_border=true&bg_color=1e1b4b&title_color=22d3ee&icon_color=a78bfa&text_color=e0f2fe" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasmz&layout=compact&hide_border=true&bg_color=1e1b4b&title_color=22d3ee&text_color=e0f2fe" />
 
-<img src="https://streak-stats.demolab.com/?user=lucasdiasmz&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=lucasdiasmz&hide_border=true&background=1E1B4B&ring=22D3EE&fire=A78BFA&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=22D3EE&sideLabels=A78BFA&dates=C7D2FE" />
 
 </div>
 
----
+<img src="./divider.svg" width="100%" height="6" alt="" />
 
 ## 🤝 Let's connect
 
@@ -130,3 +128,5 @@ Sou estudante de **Engenharia de Software na PUC Minas** (2º período). Trabalh
 Aberto a conversas sobre desenvolvimento de software, grupos de estudo e oportunidades de estágio. Me chama no [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) ou por [e-mail](mailto:lucasdiasmelo4@gmail.com).
 
 </details>
+
+<img src="./footer.svg" width="100%" alt="" />
