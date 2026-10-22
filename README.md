@@ -2,10 +2,10 @@
 
 <h1>Lucas Dias</h1>
 
-<h3>Software Engineering Student | Java &amp; Spring Boot | Python</h3>
+<h3>Software Engineering Student | Java · Python · React</h3>
 
 <a href="https://github.com/lucasdiasmz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=620&lines=Building+backend+skills+with+Java+%26+Spring+Boot;Writing+clean%2C+object-oriented+code;Learning+every+day%2C+aiming+for+global+teams" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=620&lines=Writing+clean%2C+object-oriented+code;Building+interfaces+with+React%2C+HTML+%26+CSS;Learning+every+day%2C+aiming+for+global+teams" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,15 +20,16 @@
 
 ## 👨‍💻 About me
 
-I'm a **Software Engineering student at PUC Minas** (2nd semester, Brazil), focused on becoming a solid backend developer and, in the long run, working with **international teams**.
+I'm a **Software Engineering student at PUC Minas** (2nd semester, Brazil). I work mainly with **Java**, **Python** and the **web stack** (React, JavaScript, HTML and CSS), and my long-term goal is to work with **international teams**.
 
 ```java
 public class Lucas {
-    private final String role     = "Software Engineering Student";
-    private final String focus    = "Backend: Java + Spring Boot";
-    private final String alsoUses = "Python";
-    private final String english  = "Intermediate to advanced";
-    private final String goal     = "Work for companies abroad";
+    private final String role      = "Software Engineering Student";
+    private final String languages = "Java, Python, JavaScript";
+    private final String web       = "React, HTML, CSS";
+    private final String exploring = "Spring Boot";
+    private final String english   = "Intermediate to advanced";
+    private final String goal      = "Work for companies abroad";
 
     public String currentlyDoing() {
         return "Studying algorithms, OOP, web development and software engineering";
@@ -36,8 +37,8 @@ public class Lucas {
 }
 ```
 
-- 🔭 **Now:** going deeper into **Java** and **Spring Boot** (REST APIs)
-- 🐍 **Also:** Python, mostly for algorithms and game projects
+- 💻 **Main tools:** Java, Python, React, JavaScript, HTML and CSS
+- 🌱 **Also exploring:** Spring Boot and REST APIs
 - 🧩 **I enjoy:** projects where creativity meets technical problem solving
 - 🌎 **Next step:** building a portfolio that is ready for the international market
 
@@ -54,7 +55,7 @@ public class Lucas {
     </td>
     <td width="50%" valign="top">
       <h3>🌱 <a href="https://github.com/lucasdiasmz/firstRestAPI-Spring">First REST API</a></h3>
-      <p>My first REST API, built as the starting point of my Spring Boot journey.</p>
+      <p>My first REST API, a first step into Spring Boot.</p>
       <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/REST-555555?style=flat-square" /></p>
     </td>
   </tr>
@@ -64,22 +65,26 @@ public class Lucas {
 
 ## 🧰 Tech stack
 
-**Backend**
+**Languages**
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-**Frontend**
+**Web**
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 **Tools**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+**Exploring**
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
 ---
 
@@ -98,7 +103,7 @@ public class Lucas {
 
 ## 🤝 Let's connect
 
-I'm open to conversations about backend development, study groups and opportunities for interns and juniors. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) or by [email](mailto:lucasdiasmelo4@gmail.com).
+I'm open to conversations about software development, study groups and opportunities for interns and juniors. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) or by [email](mailto:lucasdiasmelo4@gmail.com).
 
 <details>
 <summary><b>🇧🇷 Versão em português</b></summary>
@@ -107,10 +112,10 @@ I'm open to conversations about backend development, study groups and opportunit
 
 ### Sobre mim
 
-Sou estudante de **Engenharia de Software na PUC Minas** (2º período), com foco em me tornar um desenvolvedor backend sólido e, no futuro, trabalhar em **empresas do exterior**.
+Sou estudante de **Engenharia de Software na PUC Minas** (2º período). Trabalho principalmente com **Java**, **Python** e a **stack web** (React, JavaScript, HTML e CSS), e meu objetivo de longo prazo é trabalhar em **empresas do exterior**.
 
-- 🔭 **Agora:** aprofundando em **Java** e **Spring Boot** (APIs REST)
-- 🐍 **Também:** Python, principalmente em algoritmos e projetos de jogos
+- 💻 **Principais ferramentas:** Java, Python, React, JavaScript, HTML e CSS
+- 🌱 **Também explorando:** Spring Boot e APIs REST
 - 🧩 **Gosto de:** projetos que unem criatividade e técnica
 - 🌎 **Inglês:** nível intermediário/avançado
 - 📚 **Sempre estudando:** algoritmos, POO, desenvolvimento web e engenharia de software
@@ -118,10 +123,10 @@ Sou estudante de **Engenharia de Software na PUC Minas** (2º período), com foc
 ### Projetos em destaque
 
 - **[Overengineering](https://github.com/lucasdiasmz/-Overengeneering-):** jogo tower defense em grupo, com arquitetura orientada a objetos (classes base e subclasses para torres e projéteis, inimigo boss). `Python` `Pygame`
-- **[Primeira REST API](https://github.com/lucasdiasmz/firstRestAPI-Spring):** minha primeira API REST, ponto de partida no Spring Boot. `Java` `Spring Boot`
+- **[Primeira REST API](https://github.com/lucasdiasmz/firstRestAPI-Spring):** minha primeira API REST, um primeiro passo no Spring Boot. `Java` `Spring Boot`
 
 ### Contato
 
-Aberto a conversas sobre desenvolvimento backend, grupos de estudo e oportunidades de estágio. Me chama no [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) ou por [e-mail](mailto:lucasdiasmelo4@gmail.com).
+Aberto a conversas sobre desenvolvimento de software, grupos de estudo e oportunidades de estágio. Me chama no [LinkedIn](https://www.linkedin.com/in/lucasdiasmz/) ou por [e-mail](mailto:lucasdiasmelo4@gmail.com).
 
 </details>
