@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="270" viewBox="0 0 600 270" role="img" aria-label="First REST API">
+  <style>.mono { font-family: 'JetBrains Mono', 'SF Mono', Consolas, 'Liberation Mono', 'Courier New', monospace; } .sans { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif; }  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+
+  <rect x="1" y="1" width="598" height="268" rx="16" fill="#161a21" stroke="#2b313b" stroke-width="2"/>
+  <text x="36" y="48" class="mono" font-size="15" fill="#3fb950">feat<tspan fill="#8b949e">(api):</tspan></text>
+  <rect x="470" y="28" width="94" height="28" rx="14" fill="#a371f7" fill-opacity=".18"/>
+  <circle cx="490" cy="42" r="5" fill="#a371f7"/>
+  <text x="532" y="47" class="sans" font-size="13.5" font-weight="600" fill="#a371f7" text-anchor="middle">merged</text>
+  <text x="34" y="96" class="sans" font-size="32" font-weight="800" fill="#e6edf3">First REST API</text>
+  <text x="36" y="136" class="sans" font-size="16.5" fill="#8b949e">My first REST API and my first step into</text><text x="36" y="160" class="sans" font-size="16.5" fill="#8b949e">Spring Boot: learning how a Java backend</text><text x="36" y="184" class="sans" font-size="16.5" fill="#8b949e">is structured, one endpoint at a time.</text>
+  <rect x="36" y="210" width="59" height="30" rx="15" fill="none" stroke="#2b313b" stroke-width="1.5"/><text x="65.5" y="230.0" class="mono" font-size="13.5" fill="#e6edf3" text-anchor="middle">Java</text><rect x="105" y="210" width="116" height="30" rx="15" fill="none" stroke="#2b313b" stroke-width="1.5"/><text x="163.0" y="230.0" class="mono" font-size="13.5" fill="#e6edf3" text-anchor="middle">Spring Boot</text><rect x="231" y="210" width="59" height="30" rx="15" fill="none" stroke="#2b313b" stroke-width="1.5"/><text x="260.5" y="230.0" class="mono" font-size="13.5" fill="#e6edf3" text-anchor="middle">REST</text>
+</svg>
